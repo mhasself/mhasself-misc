@@ -1,13 +1,17 @@
 /*
- Personal bookmarks
+ Personal bookmarks for Reader
 
- Matthew Hasselfield, 2011
+ Works for me on Adobe Reader 9; probably works on Reader 8 as well.
+ Put this file into the Reader javascript folder.  For me that's:
+    ~/.adobe/Acrobat/9.0/JavaScripts/   on Ubuntu
+    
+ By MFH, 2011.  Use at your own risk.
 
- Based heavily on:
+ Inspired completely by:
      bookmark_page.js, ver. 1.0
      visit: www.pdfhacks.com/bookmark_page/
 
- hashify adapted from hashCode for javascript from:
+ 'hashify' adapted from hashCode for javascript from:
      http://werxltd.com/wp/2010/05/13/javascript-implementation-of-javas-string-hashcode-method/
 
 */
